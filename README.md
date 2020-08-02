@@ -1,6 +1,6 @@
 ---
 layout: pagina
-title: Coderic Template
+title: Ecosistema de Bienes y Raíces
 permalink: /
 canonical_url: https://schema.coderic.net/
 sitemap: false
